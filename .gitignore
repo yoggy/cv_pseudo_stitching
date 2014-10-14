@@ -1,0 +1,6 @@
+*.suo
+*.user
+*.sln.docstates
+
+_obj/
+
